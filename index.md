@@ -15,10 +15,10 @@ Este repositorio está diseñado para entender como utilizar la plantilla de rep
 5. Agregar **imágenes, videos** y otros recursos.
 6. Ajustar **estilos** (logo, colores, footer).
 
-
+#Prueba de modificacion
 Contenido:
 - [1. Publicar en GitHub Pages](01-publicar-en-github-pages.md)
 - [2. Estructura del repositorio](02-estructura-del-repo.md)
 - [3. Escribir en Markdown](03-markdown.md)
-- [4. Personalización visual](04-estilos.md)
+- [4. Personalización visual Emiliano](04-estilos.md)
 
