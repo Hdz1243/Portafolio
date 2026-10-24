@@ -1,13 +1,14 @@
 /* === IMPORTACIÓN DE TIPOGRAFÍAS === */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
 
-/* === VARIABLES DE PALETA DE COLORES === */
+/* === VARIABLES DE PALETA DE COLORES (GRIS GRAFITO + IDENTIDAD IBERO) === */
 :root {
-  --sidebar-bg: #0F172A;         /* Gris pizarra oscuro / Azul noche */
-  --sidebar-accent: #93C5FD;     /* Azul claro para hover/activo en menú */
-  --link-color: #2563EB;         /* Azul cobalto para enlaces en contenido */
-  --link-hover: #1D4ED8;         /* Azul profundo al pasar el cursor */
-  --text-main: #1E293B;          /* Texto principal de alta legibilidad */
+  --sidebar-bg: #23262B;         /* Gris grafito / carbón neutro */
+  --sidebar-accent: #E2E8F0;     /* Gris plata claro para hover en menú */
+  --ibero-red: #E00034;          /* Rojo institucional para detalles puntuales */
+  --link-color: #334155;         /* Gris pizarra oscuro para enlaces en contenido */
+  --link-hover: #E00034;         /* Rojo IBERO al pasar el cursor sobre enlaces */
+  --text-main: #1E293B;          /* Texto principal */
 }
 
 /* === TIPOGRAFÍA GLOBAL === */

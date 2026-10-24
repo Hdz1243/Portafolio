@@ -6,7 +6,7 @@ nav_order: 1
 
 # Emiliano Hernández Barranco
 
-** Estudiante de Ingeniería en Inteligencia Artificial | Matemáticas Competitivas **
+**Estudiante de Ingeniería en Inteligencia Artificial • Matemáticas Competitivas**
 
 ## Contenido del Portafolio
 
