@@ -1,5 +1,5 @@
-title: Portafolio
-description: Repositorio base para enseñar y crear documentación en GitHub Pages con Just the Docs
+title: Portafolio de Emiliano Hernández
+description: Portafolio personal y documentación de proyectos en Ingeniería en Inteligencia Artificial y matemáticas competitivas.
 
 # GitHub Pages: modo recomendado
 remote_theme: just-the-docs/just-the-docs
@@ -11,7 +11,7 @@ plugins:
 # - Para GitHub Pages (Project Page), edita:
 #     url: "https://TU_USUARIO.github.io"
 #     baseurl: "/NOMBRE_DEL_REPO"
-url: "https://Hdz1243.github.io/"
+url: "https://Hdz1243.github.io"
 baseurl: "/Portafolio"
 
 #Configuracion Formato, Header y Footer
@@ -29,7 +29,7 @@ search:
 # Ejemplo de enlace auxiliar (aparece arriba a la derecha)
 aux_links:
   "Repositorio en GitHub":
-    - "https://github.com/HuberGiron/portafolio-just-the-docs"
+    - "https://github.com/Hdz1243/Portafolio"
 
 # Enlaces
 permalink: pretty
