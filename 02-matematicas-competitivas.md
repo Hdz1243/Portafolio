@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Proyectos de Programación
+title: Olimpiadas de Matemáticas
 nav_order: 3
 ---
