@@ -6,9 +6,9 @@ nav_order: 1
 
 # Emiliano Hernández Barranco
 
-**Estudiante de Ingeniería en Inteligencia Artificial | Matemáticas Competitivas**
+** Estudiante de Ingeniería en Inteligencia Artificial | Matemáticas Competitivas **
 
-#Contenido del Portafolio
+## Contenido del Portafolio
 
 1. **[Proyectos de Programación](01-proyectos-software.md)**  
    Documentación de mis desarrollos técnicos, los programas están escritos en C y en Python. 
